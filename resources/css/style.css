@@ -10,7 +10,16 @@ body{
     font-weight: normal;
     font-size: 50px;
 }
-
+.header_secondary{
+    color: #fff;
+    font-weight: 300;
+    font-size: 42px;
+}
+.sub_header{
+    color: grey;
+    font-weight: normal;
+    font-size: 21px;
+}
 /* LINKS */
 .download_link{
     color: aquamarine;
