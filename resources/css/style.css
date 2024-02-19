@@ -4,3 +4,16 @@ body{
     text-align: center;
 }
 
+/* HEADERS */
+.header_main{
+    color: #fff;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+/* LINKS */
+.download_link{
+    color: aquamarine;
+    font-size: 16px;
+}
+/*  */
